@@ -1,1 +1,1 @@
-# Optimized-CCT-Model-
+# Optimized-CCT-Model
